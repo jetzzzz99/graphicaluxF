@@ -757,19 +757,6 @@ src :@Americana_ir
 
 
 
-src :@ScorchSword
-[عکس]
-‏🔴🔴اولین تصاویر از تیرانداز :
-‏
-‏📝 Cayenne 
-‏
-‏⚔️ @ScorchSword
-05:10
-1405/02/06
-
-
-
-
 src :@cataphract1
 ‏⭕️ با توصیه نیروهای امنیتی مراسم شام کاخ سفید لغو شد 
 ‏
